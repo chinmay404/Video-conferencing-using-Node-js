@@ -11,3 +11,7 @@ The application is built with a Node.js server that handles WebSockets connectio
 To run the application locally, you will need to install Node.js and the required dependencies by running "npm install" in the project directory. Once the dependencies are installed, you can start the server by running "npm start". The application will be accessible at http://localhost:3000 in your web browser.
 
 If you have any questions or issues with this project, please feel free to open an issue on the GitHub repository. Thank you for using the Video Conferencing using Node.js!
+
+
+# Learned skills 
+Node.js , P2P Connections , Room Handeling ,   
